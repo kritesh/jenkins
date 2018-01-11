@@ -1,0 +1,11 @@
+Started by user [8mha:////4FaXG9fgRUkDFSFvFs5G94ek+5kSKGgpWVDJdan3sDrDAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /var/jenkins_home/workspace/test-job
+[test-job] $ /bin/sh -xe /tmp/hudson5841331694434964634.sh
++ echo Hi This is my first docker project ....... 
+Hi This is my first docker project ....... 
++ hostname
+3b2037d324e4
++ id
+uid=1000(jenkins) gid=1000(jenkins) groups=1000(jenkins)
++ who am i
+Finished: SUCCESS
